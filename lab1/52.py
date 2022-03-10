@@ -26,13 +26,16 @@ ip, mask = net.split("/")
 ip = ip.split(".")
 mask = int(mask)
 print(ip)
+
 bin_mask = "1" * mask + "0" * (32-mask)
 print(bin_mask)
+
 ip_template = """
 Network:
 {0:<10}{1:<10}{2:<10}{3:<10}
 {0:08b}  {1:08b}  {2:08b}  {3:08b}
 """
+
 oct1, oct2, oct3, oct4 = [int(bin_mask[0:8], 2), int(bin_mask[8:16], 2), int(bin_mask[16:24], 2), int(bin_mask[24:32], 2)]
 
 mask_template = """
