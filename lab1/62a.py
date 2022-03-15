@@ -19,7 +19,7 @@ ip = input.split(".")
 
 flag = True
 i = 0
-while flag == True:
+while (flag == True)  & ( i <= 3 ):
     if ( int(ip[i]) >= 0 ) & ( int(ip[i]) <= 255 ) == False :
         flag = False
     i += 1
