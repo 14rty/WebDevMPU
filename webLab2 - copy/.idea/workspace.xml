@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e23d629-4900-4717-9e1e-a73408ed1e1a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/images/2d2ab7df-cdbc-48a8-a936-35bba702def5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/images/6e12f3de-d5fd-4ebb-855b-8cbc485278b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/images/7d4e9175-95ea-4c5f-8be5-92a6b708bb3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/images/afc2cfe7-5cac-4b80-9b9a-d5c65ef0c728.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/images/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/images/cab5b7f2-774e-4884-a200-0c0180fa777f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/images/post-example-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/posts.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AFDOOHMjJF65Ot6ODVFSxJziEh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Asus/Desktop/University/WEB2/WebDevMPU/web2lab",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e23d629-4900-4717-9e1e-a73408ed1e1a" name="Changes" comment="" />
+      <created>1654596406655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654596406655</updated>
+      <workItem from="1654596407946" duration="113000" />
+      <workItem from="1654596932175" duration="3253000" />
+      <workItem from="1654600613840" duration="22000" />
+      <workItem from="1654600637376" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

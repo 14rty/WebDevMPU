@@ -11,11 +11,22 @@
 Имя файла передается как аргумент скрипту.
 
 '''
+from sys import argv
+
 ignore = ["duplex", "alias", "configuration"]
 
-with open("config_sw1.txt", "r") as list:
+file_name = argv[1]
 
-    for line in list:
-        if (line[0] == "!") or (ignore[0] in line) or (ignore[1] in line) or (ignore[2] in line):
+result = ''
+
+file = open(f'{file_name}', 'r', encoding='UTF-8')
+
+for line in file:
+    if (line.startswith('!')):
+        continue
+    else:
+        if (set(ignore) & set(line.split())):
             continue
-        print(line, end="")
+        else:
+            result += line
+print(result)

@@ -1,0 +1,6 @@
+
+SECRET_KEY='2b0f6c24a60196f0094091f5c085d8433087e294fad6d4808ec8d881845b779a'
+MYSQL_USER = ''
+MYSQL_HOST = 'std-mysql.ist.mospolytech.ru'
+MYSQL_DB = ''
+MYSQL_PASSWORD = ''
